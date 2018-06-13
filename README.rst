@@ -4,7 +4,7 @@ Open Md Gateway 是一套主要用于期货的行情服务器. 它可以接受�
 
 本项目的服务接入URL为::
 
-  ws://openmd.shinnytech.com
+  ws://openmd.shinnytech.com/t/md/front/mobile
 
 
 `DIFF Collection <https://shinnytech.github.io/>`_ 中列出了一些支持本系统的终端产品
